@@ -49,3 +49,5 @@ if __name__ == "__main__":
             break
         else:
             print("Invalid option, please try again.")
+
+x: str = "lauren"
